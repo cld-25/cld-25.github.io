@@ -37,3 +37,9 @@ A lean place to gather study tools and practice routines for learning Swedish.
 - Pick one focus area per session.
 - Review a small set of material every day.
 - Keep notes in one place so progress stays visible.
+
+## Start practicing
+
+Try the first Swedish verb drill here:
+
+- [Swedish Verb Drill](/verbs-game.html)
