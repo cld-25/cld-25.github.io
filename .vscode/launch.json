@@ -1,0 +1,11 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Serve Jekyll site",
+      "type": "node-terminal",
+      "request": "launch",
+      "command": "cd /workspaces/cld-25.github.io && ./launch.sh"
+    }
+  ]
+}
